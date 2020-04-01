@@ -9,5 +9,5 @@ end
 
 def square2(array)
   array.collect {|x| x*x}
-  
+
 end
